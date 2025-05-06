@@ -1,0 +1,41 @@
+Path_ID,Location,Point_Type,Lat,Lon
+"Jackson, MS -> Houston-Pasadena-The Woodlands, TX","Jackson, MS",Mill,32.2988,-90.1848
+"Jackson, MS -> Houston-Pasadena-The Woodlands, TX","Houston-Pasadena-The Woodlands, TX",Metro,29.7604,-95.3698
+"Jackson, MS -> Dallas-Fort Worth-Arlington, TX","Jackson, MS",Mill,32.2988,-90.1848
+"Jackson, MS -> Dallas-Fort Worth-Arlington, TX","Dallas-Fort Worth-Arlington, TX",Metro,32.7767,-96.797
+"Jackson, MS -> Denver-Aurora-Centennial, CO","Jackson, MS",Mill,32.2988,-90.1848
+"Jackson, MS -> Denver-Aurora-Centennial, CO","Denver-Aurora-Centennial, CO",Metro,39.7392,-104.9903
+"Jackson, MS -> Minneapolis-St. Paul-Bloomington, MN-WI","Jackson, MS",Mill,32.2988,-90.1848
+"Jackson, MS -> Minneapolis-St. Paul-Bloomington, MN-WI","Minneapolis-St. Paul-Bloomington, MN-WI",Metro,44.9778,-93.265
+"Portland-Vancouver-Hillsboro, OR-WA -> Seattle-Tacoma-Bellevue, WA","Portland-Vancouver-Hillsboro, OR-WA",Mill,45.5152,-122.6784
+"Portland-Vancouver-Hillsboro, OR-WA -> Seattle-Tacoma-Bellevue, WA","Seattle-Tacoma-Bellevue, WA",Metro,47.6062,-122.3321
+"Portland-Vancouver-Hillsboro, OR-WA -> San Francisco-Oakland-Fremont, CA","Portland-Vancouver-Hillsboro, OR-WA",Mill,45.5152,-122.6784
+"Portland-Vancouver-Hillsboro, OR-WA -> San Francisco-Oakland-Fremont, CA","San Francisco-Oakland-Fremont, CA",Metro,37.7749,-122.4194
+"Portland-Vancouver-Hillsboro, OR-WA -> San Diego-Chula Vista-Carlsbad, CA","Portland-Vancouver-Hillsboro, OR-WA",Mill,45.5152,-122.6784
+"Portland-Vancouver-Hillsboro, OR-WA -> San Diego-Chula Vista-Carlsbad, CA","San Diego-Chula Vista-Carlsbad, CA",Metro,32.7157,-117.1611
+"Portland-Vancouver-Hillsboro, OR-WA -> Riverside-San Bernardino-Ontario, CA","Portland-Vancouver-Hillsboro, OR-WA",Mill,45.5152,-122.6784
+"Portland-Vancouver-Hillsboro, OR-WA -> Riverside-San Bernardino-Ontario, CA","Riverside-San Bernardino-Ontario, CA",Metro,33.9806,-117.3755
+"Portland-Vancouver-Hillsboro, OR-WA -> Phoenix-Mesa-Chandler, AZ","Portland-Vancouver-Hillsboro, OR-WA",Mill,45.5152,-122.6784
+"Portland-Vancouver-Hillsboro, OR-WA -> Phoenix-Mesa-Chandler, AZ","Phoenix-Mesa-Chandler, AZ",Metro,33.4484,-112.074
+"Portland-Vancouver-Hillsboro, OR-WA -> Los Angeles-Long Beach-Anaheim, CA","Portland-Vancouver-Hillsboro, OR-WA",Mill,45.5152,-122.6784
+"Portland-Vancouver-Hillsboro, OR-WA -> Los Angeles-Long Beach-Anaheim, CA","Los Angeles-Long Beach-Anaheim, CA",Metro,34.0522,-118.2437
+"Atlanta-Sandy Springs-Roswell, GA -> Atlanta-Sandy Springs-Roswell, GA","Atlanta-Sandy Springs-Roswell, GA",Mill,33.749,-84.388
+"Atlanta-Sandy Springs-Roswell, GA -> Atlanta-Sandy Springs-Roswell, GA","Atlanta-Sandy Springs-Roswell, GA",Metro,33.749,-84.388
+"Atlanta-Sandy Springs-Roswell, GA -> Tampa-St. Petersburg-Clearwater, FL","Atlanta-Sandy Springs-Roswell, GA",Mill,33.749,-84.388
+"Atlanta-Sandy Springs-Roswell, GA -> Tampa-St. Petersburg-Clearwater, FL","Tampa-St. Petersburg-Clearwater, FL",Metro,27.9506,-82.4572
+"Atlanta-Sandy Springs-Roswell, GA -> Baltimore-Columbia-Towson, MD","Atlanta-Sandy Springs-Roswell, GA",Mill,33.749,-84.388
+"Atlanta-Sandy Springs-Roswell, GA -> Baltimore-Columbia-Towson, MD","Baltimore-Columbia-Towson, MD",Metro,39.2904,-76.6122
+"Atlanta-Sandy Springs-Roswell, GA -> Detroit-Warren-Dearborn, MI","Atlanta-Sandy Springs-Roswell, GA",Mill,33.749,-84.388
+"Atlanta-Sandy Springs-Roswell, GA -> Detroit-Warren-Dearborn, MI","Detroit-Warren-Dearborn, MI",Metro,42.3314,-83.0458
+"Atlanta-Sandy Springs-Roswell, GA -> Washington-Arlington-Alexandria, DC-VA-MD-WV","Atlanta-Sandy Springs-Roswell, GA",Mill,33.749,-84.388
+"Atlanta-Sandy Springs-Roswell, GA -> Washington-Arlington-Alexandria, DC-VA-MD-WV","Washington-Arlington-Alexandria, DC-VA-MD-WV",Metro,38.9072,-77.0369
+"Atlanta-Sandy Springs-Roswell, GA -> Miami-Fort Lauderdale-West Palm Beach, FL","Atlanta-Sandy Springs-Roswell, GA",Mill,33.749,-84.388
+"Atlanta-Sandy Springs-Roswell, GA -> Miami-Fort Lauderdale-West Palm Beach, FL","Miami-Fort Lauderdale-West Palm Beach, FL",Metro,25.7617,-80.1918
+"Atlanta-Sandy Springs-Roswell, GA -> Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","Atlanta-Sandy Springs-Roswell, GA",Mill,33.749,-84.388
+"Atlanta-Sandy Springs-Roswell, GA -> Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metro,39.9526,-75.1652
+"Atlanta-Sandy Springs-Roswell, GA -> Boston-Cambridge-Newton, MA-NH","Atlanta-Sandy Springs-Roswell, GA",Mill,33.749,-84.388
+"Atlanta-Sandy Springs-Roswell, GA -> Boston-Cambridge-Newton, MA-NH","Boston-Cambridge-Newton, MA-NH",Metro,42.3601,-71.0589
+"Atlanta-Sandy Springs-Roswell, GA -> Chicago-Naperville-Elgin, IL-IN","Atlanta-Sandy Springs-Roswell, GA",Mill,33.749,-84.388
+"Atlanta-Sandy Springs-Roswell, GA -> Chicago-Naperville-Elgin, IL-IN","Chicago-Naperville-Elgin, IL-IN",Metro,41.8781,-87.6298
+"Atlanta-Sandy Springs-Roswell, GA -> New York-Newark-Jersey City, NY-NJ","Atlanta-Sandy Springs-Roswell, GA",Mill,33.749,-84.388
+"Atlanta-Sandy Springs-Roswell, GA -> New York-Newark-Jersey City, NY-NJ","New York-Newark-Jersey City, NY-NJ",Metro,40.7128,-74.006
